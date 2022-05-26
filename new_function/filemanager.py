@@ -26,6 +26,4 @@ def quit():
     sys.exit(0)
 
 
-print(filenames())
-print(author_info())
-print(quit())
+
