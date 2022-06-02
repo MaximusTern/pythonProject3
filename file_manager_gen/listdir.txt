@@ -1,0 +1,1 @@
+{"files": ["File_managerv2.py", "listdir.txt"], "dirs": ["for_test_function"]}
